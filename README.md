@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello I'm Siddhant, a software development intern and undergraduate studying artificial intelligence who is working on real world projects involving data.<br><br><br>
 
 
