@@ -16,3 +16,27 @@ Hello I'm Siddhant, a software development intern and undergraduate studying art
 [![](https://visitcount.itsvg.in/api?id=Siddhant&icon=4&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+
+
+### Hey there! 👋
+
+I’m **Siddhant**, a software development intern and undergraduate focused on **AI, data, and systems**.
+I build, break, and rebuild things to understand how they *actually* work.
+
+This GitHub is my **learning lab** —
+clean notes, problem-solving patterns, and real-world concepts documented for long-term mastery, not exam hacks.
+
+I believe in shipping consistently, thinking deeply, and improving one repo at a time.
+
+---
+
+<hr>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddhant-jain-a5b2b624a/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/siddhant.jain._/">Instagram</a> ·
+  <a href="https://www.youtube.com/@SiddhantJain-v8u">YouTube</a> ·
+  <a href="mailto:deshmanesiddhant@gmail.com">Email</a>
+</p>
+
+---
