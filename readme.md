@@ -36,7 +36,7 @@ This space documents that journey raw, evolving, and intentional.
     
   </p>
 
-
+---
 
 
 <p align="center">
