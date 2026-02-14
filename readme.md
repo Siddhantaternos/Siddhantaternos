@@ -3,7 +3,7 @@
 I’m Siddhant a software development intern and undergraduate exploring the intersection of AI, data, and systems.
 
 I learn by doing. I build things, break them on purpose, then rebuild them until the logic clicks. I care less about shortcuts and more about understanding how systems actually behave under the hood.
-
+  
 This GitHub is my learning lab.
 You’ll find structured notes, problem solving patterns, and real world concepts written with long term mastery in mind not exam hacks or copy paste solutions.
 
