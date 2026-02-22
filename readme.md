@@ -10,7 +10,7 @@ You’ll find structured notes, problem solving patterns, and real world concept
 I believe progress comes from consistency over intensity, clarity over noise, and improving one repo at a time.
 This space documents that journey raw, evolving, and intentional.
 
----
+---  
 
 <p align="center">
   <em>
